@@ -59,7 +59,7 @@ End();	//int End()
 //but this function prints a text in the console
 //That is, for example 1300 ms
 
-End(int);	// End(1); or End (0);
+End(int);     // End(1); or End(0);
 ```
 
 <br>
